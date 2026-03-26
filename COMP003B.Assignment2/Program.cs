@@ -1,3 +1,13 @@
+/*
+ * Name: Antonio Gonzalez
+ * Course Name: COMP-003B: ASP.NET Core
+ * Faculty Name: Jonathan Cruz
+ * Purpose: build a modular and structured ASP.NET Core MVC web application,
+ * where I will apply my understanding of the request pipeline,
+ * middleware configuration, controllers, views, layout design, and partial views,
+ * as introduced in Lectures 2.1 through 2.4. 
+ */
+
 namespace COMP003B.Assignment2
 {
 	public class Program
